@@ -10,4 +10,5 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
         short a=1;
+    short b=2;
 }
