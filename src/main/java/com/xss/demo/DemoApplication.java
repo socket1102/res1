@@ -10,6 +10,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
         short a=1;
+    String aa="fdsf ";
     short b=2;
     //修改了代码
     short cc=3;
