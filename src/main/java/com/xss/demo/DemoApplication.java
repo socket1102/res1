@@ -11,6 +11,7 @@ public class DemoApplication {
     }
         short a=1;
     String aa="fdsf ";
+    String aaa="反对法地方";
     short b=2;
     //修改了代码
     short cc=3;
