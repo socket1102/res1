@@ -11,4 +11,6 @@ public class DemoApplication {
     }
         short a=1;
     short b=2;
+    //修改了代码
+    short cc=3;
 }
